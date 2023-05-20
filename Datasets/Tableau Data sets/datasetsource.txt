@@ -1,1 +1,5 @@
+The following data sets have been downloaded from kaggle 
+
+https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
+https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
 
