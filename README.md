@@ -8,3 +8,7 @@
 5️⃣ Statistical Analysis: Applied statistical techniques to identify correlations, perform hypothesis testing, and discover significant factors related to COVID-19 spread.
 6️⃣ Data Visualization with Tableau: Created interactive and visually appealing dashboards and reports using Tableau, effectively communicating key findings.
 7️⃣ Storytelling and Presentation: Crafted a compelling narrative around the analysis and presented key insights, trends, and recommendations for stakeholders. recommendations for stakeholders.
+
+Below is the Tableau dashboard for above project
+
+https://public.tableau.com/views/Covid19_data_analysis_16845488552400/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
